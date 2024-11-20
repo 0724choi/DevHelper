@@ -153,7 +153,7 @@ ex)
 
   </pre>
 </details>
-최승균
+최승균<br>
   ![채용공고리스트](https://github.com/user-attachments/assets/9c351a69-d7a0-4fd6-a94f-377a4fb59973)
   공공데이터 채용 API 활용 채용정보 리스트 조회 기능(사람인API 대체)
   <br><br>
