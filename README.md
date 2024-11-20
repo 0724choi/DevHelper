@@ -154,10 +154,7 @@ ex)
   </pre>
 </details>
 
-<details>
   <summary>최승균</summary>
-  <pre>
-    
   ![채용공고리스트](https://github.com/user-attachments/assets/9c351a69-d7a0-4fd6-a94f-377a4fb59973)
   공공데이터 채용 API 활용 채용정보 리스트 조회 기능(사람인API 대체)
   <br><br>
@@ -172,6 +169,5 @@ ex)
   <br><br>
   ![세션영역에임시저장](https://github.com/user-attachments/assets/ae9d63b3-5fd2-428d-bc3a-bbc6b5d6af1d)
   임시저장 기능 (세션 저장소 활용)
-  </pre>
 </details>
 
